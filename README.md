@@ -5,6 +5,7 @@
 This project analyzes supermarket sales data to identify sales trends, product performance, customer behavior, and payment patterns.
 
 The analysis was carried out as part of my Data Analyst internship using Microsoft Excel. The project demonstrates practical skills in data cleaning, exploratory analysis, data visualization, dashboard development, and communicating actionable insights.
+![Supermarket Sales Dashboard](images/dashboard.png)
 
 ## Objectives
 
